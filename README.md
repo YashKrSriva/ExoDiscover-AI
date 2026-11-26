@@ -1,3 +1,15 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-2.10-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-1.67-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Deep%20Learning-purple" />
+  <img src="https://img.shields.io/badge/License-Educational-green" />
+</p>
+
 # 🪐 ExoDiscover AI
 ### AI-Powered Exoplanet Candidate Detection Using Deep Learning
 
