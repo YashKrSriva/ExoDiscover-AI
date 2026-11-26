@@ -223,9 +223,9 @@ A high model score is not equivalent to the probability that an object is a conf
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Yash Kumar Srivastava**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/YashKrSriva
 
 ---
 
