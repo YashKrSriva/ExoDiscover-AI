@@ -1,0 +1,14 @@
+{
+    "threshold": 0.747613,
+    "accuracy": 0.9982456140350877,
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1_score": 0.9090909090909091,
+    "pr_auc": 1.0,
+    "true_negatives": 564,
+    "false_positives": 1,
+    "false_negatives": 0,
+    "true_positives": 5,
+    "test_samples": 570,
+    "positive_samples": 5
+}

@@ -1,0 +1,36 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Cache and temporary files
+cache/
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Raw datasets (download separately)
+data/*.csv
+
+# Large generated files
+outputs/*.npz
+outputs/*.png
+outputs/*.csv
+
+# Keep the metrics file required by the app
+!outputs/final_test_metrics.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,10 @@
+{
+    "test_loss": 0.021111307458200477,
+    "accuracy": 0.9982456140350877,
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1_score": 0.9090909090909091,
+    "pr_auc": 1.0,
+    "threshold": 0.5,
+    "test_positive_samples": 5
+}
